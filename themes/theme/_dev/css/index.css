@@ -36,7 +36,7 @@ body {
 }
 
 .pack-test::before {
-  content: url('../img/cheese-solid.svg');
+  content: url('../img/cheese-solid.png');
   width: 48px;
   filter: invert();
 }
