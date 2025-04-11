@@ -4,7 +4,7 @@
 # Steps
 1. npm install
 2. npm run build
-3. enjoy the error
+3. enjoy the error (I switched to a PNG image from the SVG in the screenshot, just to be sure)
 
 You can switch to `rspack-css-legacy.mjs` in `/themes/theme/_dev/rspack.config.mjs` to have a succesful build.
 
